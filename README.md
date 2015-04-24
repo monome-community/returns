@@ -4,7 +4,7 @@ simple yet versatile cc output from the arc. sensitivity and lfo control. anti-a
 
 created by: tehn
 
-![](app:returns.png)
+![](returns.png)
 
 
 http://vimeo.com/63240734
