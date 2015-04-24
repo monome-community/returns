@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "returns",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"midichan" : [ 0 ],
+					"midiport" : [ 0 ],
+					"midiport[1]" : [ 0 ],
+					"midiport[2]" : [ 0 ],
+					"sens" : [ 0.15 ],
+					"serialosc::u358009400" : [  ],
+					"serialosc::deviceid" : [ "none" ],
+					"serialosc[1]::u463009390" : [  ],
+					"serialosc[1]::deviceid" : [ "none" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
