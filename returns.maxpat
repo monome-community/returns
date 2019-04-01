@@ -733,7 +733,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 964.0, 87.0, 68.0, 22.0 ],
 					"style" : "",
-					"text" : "s cc-out"
+					"text" : "s mc-out"
 				}
 
 			}
