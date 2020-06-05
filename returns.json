@@ -15,9 +15,7 @@
 					"mod2" : [ 2 ],
 					"mod3" : [ 4 ],
 					"mod4" : [ 5 ],
-					"sens" : [ 1.0 ],
-					"serialosc::u225009037" : [  ],
-					"serialosc::deviceid" : [ "none" ]
+					"sens" : [ 1.0 ]
 				}
 
 			}
